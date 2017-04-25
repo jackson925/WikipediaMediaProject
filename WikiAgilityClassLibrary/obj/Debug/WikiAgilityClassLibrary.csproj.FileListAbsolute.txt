@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\obj\Debug\WikiAgilityClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\bin\Debug\WikiAgilityClassLibrary.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\bin\Debug\WikiAgilityClassLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\obj\Debug\WikiAgilityClassLibrary.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\HtmlAgilityTest\WikiAgilityClassLibrary\obj\Debug\WikiAgilityClassLibrary.pdb
