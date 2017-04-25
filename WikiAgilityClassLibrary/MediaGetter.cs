@@ -222,9 +222,9 @@ namespace WikiAgilityClassLibrary
 
                 //Instatiation of an array that will hold the random subjects selected
                 string[] randomHrefArray = new string[5];
-                //Creation of on interger holder max range for the random object
+                //ListCount will provide max range for the random object
                 int listCount = hrefList.Count();
-                //Instatiation of random objects
+                //Instatiation of random object
                 Random ranPathSelector = new Random();
                 //Loop for random href selection
                 for (int i = 0; i < 5; i++)
