@@ -304,7 +304,7 @@ namespace WikiAgilityClassLibrary
                     //Declaring that we want JSON data in response
                     http.ContentType = "application/json";
                     //Declaring 'Key' and providing key value in a new header
-                    http.Headers.Add("Ocp-Apim-Subscription-Key", "0fe060e04a5741e58de4ca6d2fb35558");
+                    http.Headers.Add("Ocp-Apim-Subscription-Key", "YOUR BING IMAGE API KEY HERE");
                     //Getting the response and storing in webresponse object
                     WebResponse response = http.GetResponse();
 
